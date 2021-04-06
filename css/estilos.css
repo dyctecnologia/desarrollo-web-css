@@ -1,0 +1,17 @@
+body {
+    /*background-color: royalblue;
+    background-image: url(/image/tartan-fondo-madera_1205-2118.jpg);
+    background-repeat: no-repeat;
+    background-position: right;*/
+    background: url(/image/tartan-fondo-madera_1205-2118.jpg) no-repeat right top;
+}
+
+.elemento {
+    width: 200px;
+    height: 150px;
+    background-color: red;
+}
+
+h1 {
+    background-color: palegreen;
+}
